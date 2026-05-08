@@ -13,9 +13,9 @@ PAYLOAD = {
     "dashboardUrl": "https://code-dash-14881cdc0bc0.herokuapp.com/api/claim-report",
     "dashboardBase": "https://code-dash-14881cdc0bc0.herokuapp.com/",
     "meta": {
-        "region": "EXTERNAL-HOSTED",
+        "region": "AWS - EU-east",
         "country": "UNKNOWN",
-        "selected_node_stats": "Internal Load Balancing Active - Render Free Tier"
+        "selected_node_stats": "Internal Load Balancing Active"
     }
 }
 
