@@ -8,8 +8,8 @@ PAYLOAD = {
     "authUrls": ["https://code-auth-1-c604181235ea.herokuapp.com/check"],
     "authUrl": "https://code-auth-1-c604181235ea.herokuapp.com/check",
     "regionalUrl": "https://code.hh123.site",
-    "healthUrl": "wss://api-health-2a0c142729f4.herokuapp.com/ws",
-    "healthBase": "https://api-health-2a0c142729f4.herokuapp.com/",
+    "healthUrl": "wss://api-health-1-b69a57b16404.herokuapp.com/ws",
+    "healthBase": "https://api-health-1-b69a57b16404.herokuapp.com/",
     "dashboardUrl": "https://code-dashboard-dbd48b60767e.herokuapp.com/api/claim-report",
     "dashboardBase": "https://code-dashboard-dbd48b60767e.herokuapp.com/",
     "meta": {
