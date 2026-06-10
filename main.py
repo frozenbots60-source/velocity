@@ -10,8 +10,8 @@ PAYLOAD = {
     "regionalUrl": "https://code.hh123.site",
     "healthUrl": "wss://api-health-1-b69a57b16404.herokuapp.com/ws",
     "healthBase": "https://api-health-1-b69a57b16404.herokuapp.com/",
-    "dashboardUrl": "https://code-dashboard-dbd48b60767e.herokuapp.com/api/claim-report",
-    "dashboardBase": "https://code-dashboard-dbd48b60767e.herokuapp.com/",
+    "dashboardUrl": "https://code-dash-594cf52a330c.herokuapp.com/api/claim-report",
+    "dashboardBase": "https://code-dash-594cf52a330c.herokuapp.com/",
     "meta": {
         "region": "AWS - EU-east",
         "country": "UNKNOWN",
