@@ -3,8 +3,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 # The exact payload from your original Worker
 PAYLOAD = {
-    "wssUrl": "wss://codeextractor.onrender.com/ws",
-    "wssUrls": ["wss://codeextractor.onrender.com/ws"],
+    "wssUrl": "wss://code-relay-46fab137fd72.herokuapp.com/ws",
+    "wssUrls": ["wss://code-relay-46fab137fd72.herokuapp.com/ws"],
     "authUrls": ["https://chatauth.onrender.com/check"],
     "authUrl": "https://chatauth.onrender.com/check",
     "regionalUrl": "https://code.hh123.site",
