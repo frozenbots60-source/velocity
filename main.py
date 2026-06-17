@@ -11,7 +11,7 @@ PAYLOAD = {
     "healthUrl": "wss://health-dash-c83f9ff894fb.herokuapp.com/ws",
     "healthBase": "https://health-dash-c83f9ff894fb.herokuapp.com/",
     "dashboardUrl": "code-dashh-54669a0893a4.herokuapp.com/api/claim-report",
-    "dashboardBase": "code-dashh-54669a0893a4.herokuapp.com/",
+    "dashboardBase": "https://code-dashh-54669a0893a4.herokuapp.com/",
     "meta": {
         "region": "AWS - EU-east",
         "country": "Global",
