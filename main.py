@@ -14,7 +14,7 @@ PAYLOAD = {
     "dashboardBase": "code-dashh-54669a0893a4.herokuapp.com/",
     "meta": {
         "region": "AWS - EU-east",
-        "country": "UNKNOWN",
+        "country": "Global",
         "selected_node_stats": "Internal Load Balancing Active"
     }
 }
