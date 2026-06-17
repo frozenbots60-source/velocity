@@ -5,8 +5,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 PAYLOAD = {
     "wssUrl": "wss://code-relay-46fab137fd72.herokuapp.com/ws",
     "wssUrls": ["wss://code-relay-46fab137fd72.herokuapp.com/ws"],
-    "authUrls": ["https://code-auth-1-c604181235ea.herokuapp.com/check"],
-    "authUrl": "https://code-auth-1-c604181235ea.herokuapp.com/check",
+    "authUrls": ["https://code-auth-dash-643e4005edaa.herokuapp.com/check"],
+    "authUrl": "https://code-auth-dash-643e4005edaa.herokuapp.com/check",
     "regionalUrl": "https://code.hh123.site",
     "healthUrl": "wss://api-health-1-b69a57b16404.herokuapp.com/ws",
     "healthBase": "https://api-health-1-b69a57b16404.herokuapp.com/",
