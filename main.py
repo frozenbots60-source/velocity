@@ -3,15 +3,15 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 # The exact payload from your original Worker
 PAYLOAD = {
-    "wssUrl": "wss://code-relay-lds-9ac9687de422.herokuapp.com/ws",
-    "wssUrls": ["wss://code-relay-lds-9ac9687de422.herokuapp.com/ws"],
-    "authUrls": ["https://code-auth-dash-643e4005edaa.herokuapp.com/check"],
-    "authUrl": "https://code-auth-dash-643e4005edaa.herokuapp.com/check",
+    "wssUrl": "wss://code-relay-1b54175101f4.herokuapp.com/ws",
+    "wssUrls": ["wss://code-relay-1b54175101f4.herokuapp.com/ws"],
+    "authUrls": ["https://code-auth-1-5e0f9f745e3a.herokuapp.com/check"],
+    "authUrl": "https://code-auth-1-5e0f9f745e3a.herokuapp.com/check",
     "regionalUrl": "https://code.hh123.site",
-    "healthUrl": "wss://health-dash-c83f9ff894fb.herokuapp.com/ws",
-    "healthBase": "https://health-dash-c83f9ff894fb.herokuapp.com/",
-    "dashboardUrl": "https://code-dashh-54669a0893a4.herokuapp.com/api/claim-report",
-    "dashboardBase": "https://code-dashh-54669a0893a4.herokuapp.com/",
+    "healthUrl": "wss://health-dashh-091c8b570a5c.herokuapp.com/ws",
+    "healthBase": "https://health-dashh-091c8b570a5c.herokuapp.com/",
+    "dashboardUrl": "https://code-dahsboard-4155b523fcf8.herokuapp.com/api/claim-report",
+    "dashboardBase": "https://code-dahsboard-4155b523fcf8.herokuapp.com/",
     "meta": {
         "region": "AWS - EU-east",
         "country": "Global",
