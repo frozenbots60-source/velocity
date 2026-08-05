@@ -7,7 +7,7 @@ PAYLOAD = {
     "wssUrls": ["wss://code-relay-1b54175101f4.herokuapp.com/ws"],
     "authUrls": ["https://code-auth-1-5e0f9f745e3a.herokuapp.com/check"],
     "authUrl": "https://code-auth-1-5e0f9f745e3a.herokuapp.com/check",
-    "regionalUrl": "https://code.hh123.site",
+    "regionalUrl": "wss://wss.rebatecodeclaimer.com/ws",
     "healthUrl": "wss://health-dashh-091c8b570a5c.herokuapp.com/ws",
     "healthBase": "https://health-dashh-091c8b570a5c.herokuapp.com/",
     "dashboardUrl": "https://code-dahsboard-4155b523fcf8.herokuapp.com/api/claim-report",
