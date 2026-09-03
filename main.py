@@ -3,8 +3,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 # The exact payload from your original Worker
 PAYLOAD = {
-    "wssUrl": "wss://code-relay-2-main-k2-17f8e1c8a668.herokuapp.com/ws",
-    "wssUrls": ["wss://code-relay-2-main-k2-17f8e1c8a668.com/ws"],
+    "wssUrl": "wss://code-relay-vr-k2-64011433517c.herokuapp.com/ws",
+    "wssUrls": ["wss://code-relay-vr-k2-64011433517c.herokuapp.com/ws"],
     "authUrls": ["https://code-auth-1-d4-k2-be7a0248470d.herokuapp.com/check"],
     "authUrl": "https://code-auth-1-d4-k2-be7a0248470d.herokuapp.com/check",
     "regionalUrl": "wss://wss.rebatecodeclaimer.com/ws",
