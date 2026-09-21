@@ -12,6 +12,7 @@ PAYLOAD = {
     "healthBase": "https://health-dashh-z2-k2-8ab8f55fc397.herokuapp.com/",
     "dashboardUrl": "https://code-dahsboard-0w-k2-f0484eadf33c.herokuapp.com/api/claim-report",
     "dashboardBase": "https://code-dahsboard-0w-k2-f0484eadf33c.herokuapp.com/",
+    "balanceBase": "https://rebate-balance-k2-ba89f1e73536.herokuapp.com/",
     "meta": {
         "region": "AWS - EU-east",
         "country": "Global",
@@ -32,7 +33,7 @@ class LoadBalancerHandler(BaseHTTPRequestHandler):
         """Serve the JSON payload"""
         # Note: We cannot easily get 'Country' like CF does without a GeoIP database.
         # This keeps the response structure identical to your Worker.
-        
+
         response_data = json.dumps(PAYLOAD, indent=2).encode("utf-8")
 
         self.send_response(200)
