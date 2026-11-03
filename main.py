@@ -4,6 +4,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 # The exact payload from your original Worker
 PAYLOAD = {
     "wssUrl": "wss://code-relay-vr-k4-8f763f06a20a.herokuapp.com/ws",
+    "usWssUrl": "wss://code-extracttr-dt-us-k4-8f3248baf461.herokuapp.com/ws",
     "wssUrls": ["wss://code-relay-vr-k4-8f763f06a20a.herokuapp.com/ws"],
     "authUrls": ["https://code-auth-1-d4-k4-e161b0483133.herokuapp.com/check"],
     "authUrl": "https://code-auth-1-d4-k4-e161b0483133.herokuapp.com/check",
